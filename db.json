@@ -1,0 +1,84 @@
+{
+  "anunciante": {
+    "id": 1,
+    "nome": "Flávio Henrique"
+  },
+  "anuncios": [
+    {
+      "id": 1, 
+      "title": "MacBook 2011", 
+      "price": "1200,00", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "anunciante": 1,
+      "images": [
+        { "id": 1, "url": "https://img.olx.com.br/images/52/522199362800655.jpg" },
+        { "id": 2, "url": "https://img.olx.com.br/images/52/529107727334842.jpg" },
+        { "id": 3, "url": "https://img.olx.com.br/images/52/520125125858161.jpg" }
+      ],
+      "data": "01 de fevereiro 07:24, Barra da Tijuca"
+    },
+    {
+      "id": 2, 
+      "title": "MacBook 2009", 
+      "price": "700,00", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "anunciante": 1,
+      "images": [
+        { "id": 4, "url": "https://img.olx.com.br/images/61/610180850233840.jpg" },
+        { "id": 5, "url": "https://img.olx.com.br/images/61/619199259950279.jpg" },
+        { "id": 6, "url": "https://img.olx.com.br/images/61/615163853809277.jpg" }
+      ],
+      "data": "01 de fevereiro 07:24, Barra da Tijuca"
+    },
+    {
+      "id": 3, 
+      "title": "Tracker Premier 1.4 Turbo Automática 2018/2019 - Na garantia", 
+      "price": "95000,00", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "anunciante": 1,
+      "images": [
+        { "id": 7, "url": "https://img.olx.com.br/images/10/109094471870054.jpg" },
+        { "id": 8, "url": "https://img.olx.com.br/images/10/109033351586493.jpg" },
+        { "id": 9, "url": "https://img.olx.com.br/images/10/105068237597361.jpg" }
+      ],
+      "data": "01 de fevereiro 07:24, Barra da Tijuca"
+    },
+    {
+      "id": 4, 
+      "title": "Apple Watch ? Leia a descrição", 
+      "price": "200,00", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "anunciante": 1,
+      "images": [
+        { "id": 10, "url": "https://img.olx.com.br/images/59/598192734716247.jpg" },
+        { "id": 11, "url": "https://img.olx.com.br/images/59/590175010570899.jpg" }
+      ],
+      "data": "01 de fevereiro 07:24, Barra da Tijuca"
+    },
+    {
+      "id": 5, 
+      "title": "Jetta 2012 Aut Ent + 698 fixas", 
+      "price": "35900,00", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "anunciante": 1,
+      "images": [
+        { "id": 12, "url": "https://img.olx.com.br/images/67/676190252532344.jpg" },
+        { "id": 13, "url": "https://img.olx.com.br/images/67/677117613955206.jpg" },
+        { "id": 14, "url": "https://img.olx.com.br/images/67/675128251857063.jpg" }
+      ],
+      "data": "01 de fevereiro 07:24, Barra da Tijuca"
+    },
+    {
+      "id": 6, 
+      "title": "Mesa de madeira", 
+      "price": "350,00", 
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "anunciante": 1,
+      "images": [
+        { "id": 15, "url": "https://img.olx.com.br/images/66/662185617470502.jpg" },
+        { "id": 16, "url": "https://img.olx.com.br/images/66/662170259287352.jpg" }
+      ],
+      "data": "01 de fevereiro 07:24, Barra da Tijuca"
+    }
+  ]
+}
